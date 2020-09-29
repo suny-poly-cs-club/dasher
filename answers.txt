@@ -1,0 +1,5 @@
+Input: Hello world
+Output: H-e-ll-o- w-o-rld
+
+Input: Let's do this!
+Output: L-e-t's d-o- th-i-s
